@@ -1,0 +1,4 @@
+3
+a|Verbova|24.07.1976|IPMM
+s|Kozgevnikova|16.02.1999|IKNT|3
+l|Serbova|11.04.2001|SPbGU|Rector|32

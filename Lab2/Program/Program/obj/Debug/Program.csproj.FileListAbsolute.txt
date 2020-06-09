@@ -1,0 +1,6 @@
+/Users/tanya/Desktop/Polina/Lab2/Program/Program/bin/Debug/Program.exe
+/Users/tanya/Desktop/Polina/Lab2/Program/Program/bin/Debug/Program.pdb
+/Users/tanya/Desktop/Polina/Lab2/Program/Program/obj/Debug/Program.csprojAssemblyReference.cache
+/Users/tanya/Desktop/Polina/Lab2/Program/Program/obj/Debug/Program.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Polina/Lab2/Program/Program/obj/Debug/Program.exe
+/Users/tanya/Desktop/Polina/Lab2/Program/Program/obj/Debug/Program.pdb

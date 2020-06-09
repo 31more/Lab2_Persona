@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPersona xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Persona xsi:type="Applicant">
+    <Name>Verbova</Name>
+    <DateOfBirth>1976-07-24T00:00:00</DateOfBirth>
+    <Faculty>IPMM</Faculty>
+  </Persona>
+  <Persona xsi:type="Student">
+    <Name>Kozgevnikova</Name>
+    <DateOfBirth>1999-02-16T00:00:00</DateOfBirth>
+    <Faculty>IKNT</Faculty>
+    <Cours>3</Cours>
+  </Persona>
+  <Persona xsi:type="Lecturer">
+    <Name>Serbova</Name>
+    <DateOfBirth>2001-04-11T00:00:00</DateOfBirth>
+    <Position>Rector</Position>
+    <Faculty>SPbGU</Faculty>
+    <Experience>32</Experience>
+  </Persona>
+</ArrayOfPersona>
